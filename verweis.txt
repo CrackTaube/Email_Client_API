@@ -1,0 +1,3 @@
+@1  https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyListingsLatest
+@2  https://stackoverflow.com/questions/16296643/convert-tuple-to-list-and-back
+@3  https://www.codegrepper.com/code-examples/delphi/python+run+function+every+5+minutes
