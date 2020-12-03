@@ -105,7 +105,7 @@ parameters = {                                                  # Setting the In
 }
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': 'XXXXXXXXXX_Your_API_Key_XXXXXXXXXXX',
+    'X-CMC_PRO_API_KEY': 'XXX_API-Key_XXX',
 }
 
 session = Session()
